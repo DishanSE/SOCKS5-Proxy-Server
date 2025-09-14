@@ -3,8 +3,8 @@ const fs = require('fs');
 
 // Configuration
 const PORT = process.env.PROXY_PORT || 1080;
-const USERNAME = 'proxyuser';
-const PASSWORD = 'proxypass';
+const USERNAME = 'Dishan';
+const PASSWORD = 'D123';
 const LOG_FILE = 'proxy.log';
 
 // Create log file stream
